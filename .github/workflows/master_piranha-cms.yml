@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'piranha-cms'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E1AA800AD59E4E438CF1228D8C780C30 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DDCC36D46BF490F8F1F3A4239C79951 }}
           package: .
